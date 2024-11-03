@@ -23,3 +23,8 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 ## License
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
+
+
+https://github.com/fashionstatus/amplify-angular.git
+
+git remote add origin https://github.com/fashionstatus/amplify-angular.git
